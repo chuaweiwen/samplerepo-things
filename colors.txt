@@ -2,4 +2,4 @@ blue
 red
 white
 maroon
-ok
+diamond
